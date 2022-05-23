@@ -8,7 +8,7 @@ public class ExercicioCNH {
 		//variaveis
 		int psicotecnico, teorico, pratico;
 
-		//Perguntando e recebendo 
+		//Perguntas/respostas 
 		System.out.println("Bem vindo ao teste para obtencao da sua CNH!\n Lembrando que para responder voce deve usar 1 para sim e 2 para nao!\n Vamos comecar!\n");
 		System.out.print("Voce passou no exame psicotecnico? \n (1)- Sim\n (2)- Nao\n Resposta: ");
 		psicotecnico = sc.nextInt();
